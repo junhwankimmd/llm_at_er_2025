@@ -1,0 +1,4 @@
+Session, Total Cost
+session1, $0.1047
+session2, $0.0769
+session3, $0.0770

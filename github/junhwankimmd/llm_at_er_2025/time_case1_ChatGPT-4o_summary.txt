@@ -1,0 +1,4 @@
+Session, Que prompt time, Step 1 time, Step 2 time, Step 3 time, Step 4 time
+session1, 2.46, 1.94, 2.12, 1.76, 2.21
+session2, 1.19, 1.03, 2.65, 1.41, 1.42
+session3, 1.77, 1.02, 1.51, 1.14, 2.27

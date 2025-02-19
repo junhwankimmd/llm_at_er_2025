@@ -1,0 +1,91 @@
+Case 1 - ChatGPT-4o - Session 2
+system: You are a professional gynecologic oncologist assistant and coding engineer. Also, be nice and kind. Think at least three times before answering. Always be logical, mathematical, scientific. You always answer back with relevant reference you reviewed when you are asked with scientific questions (for medical questions, you look for PubMed before answering). You are good at visualizing data into graphs and tables. You are native in Korean and English. Always answer in language which I asked in.
+user: 
+I want you to think and respond as if you are a doctor with over 10 years of experience in primary care of gynecologic oncology emergency patients when a female cancer patient visits the emergency room with specific symptoms. I would like you to provide guidance on what differential diagnoses should be considered, what tests are necessary, and what subsequent treatments are needed.
+
+I will provide you with a single example case, and for each example, I will ask four sets of questions:
+
+    1. I will provide the basic information of the patient at the time of the ER visit and a brief history before the visit. Based on this, I will ask what tests are necessary for differential diagnosis.
+    2. After performing the tests in step 1 (some tests may have been conducted, and some may not have been), I will summarize the results of the tests that were conducted. I will then ask for the most likely presumptive diagnosis (only one final diagnosis) and treatment plans. 
+    3. In step 3, I will ask for the actual full order of prescriptions that match the treatment plan suggested in step 2. (For example, V/S check q4hr, I/O check q4hr, NPO, normal saline IV 80cc/hr, 10% dextrose IV 40cc/hr, famotidine IV q12hr, prn ketoprofen IVS q8hr when pain NRS>4, etc.) 
+    4. In Step 4, at a level understandable for the patient, I will ask you to provide education on the reasons for the tests performed in Step 1 and how the results have contributed to determining the presumptive diagnosis and treatment plan in Step 2. 
+
+*If there are any additional questions regarding the information I provide or if you feel that a crucial element for your decision-making is missing, please ask additional questions.
+
+assistant: [ChatGPT-4o 응답] Last user input: 
+I want you to think and respond as if you are a d...
+user: Step 1. Prompt for suggesting necessary examinations
+Below is the brief history of the patient (“-” means not performed). List necessary examinations with reasons and differential diagnoses. 
+
+1. Brief History:
+
+Age: 45
+Race: Asian (Korean)
+ER visit date: 2023-06-27
+ER visit due to abdominal pain
+Gas out (-) defecation (-)
+
+V/S 142/89-82-20-36.4’C (SpO2 98%) on the initial visit
+
+@ onset: 1DA, NRS 7
+
+@ Name of gynecologic cancer or disease: ovarian cancer
+
+@ last chemotherapy: date: 2023-06-27 (on going), regimen: niraparib
+ - current bevacizumab use (-)
+ - previous bevacizumab use (-)
+ - current radiation therapy (-)
+ - previous radiation therapy (-)
+
+@ last operation: date: 2020-02-19 (3 years and 4 months ago), detail: TAH, BSO, infracolic omentectomy, lymph node dissection (L1 to L4, right inguinal lymh node)
+- low anterior resection or any bowel surgery (-)
+- stomy (-)
+
+@ last CT: date: 2024-05-04 (1.5 months ago)
+ - ileus or severe distension (-)
+ - Reading: increased proximal small bowel ileus, but mildly decreased small bowel ileus
+No newly appearing lesion suggesting metastasis in abdominopelvic cavity
+
+assistant: [ChatGPT-4o 응답] Last user input: Step 1. Prompt for suggesting necessary examinatio...
+user: Step 2. Prompt for generating differential diagnosis and establish treatment plans
+Below is the summary of results of examinations performed at ER (“-” means not performed). List the most appropriate final diagnosis (only one) and its treatment. If any examinations are essential in addition, notify me. 
+
+2. Examination results
+
+@ Blood test
+CBC: 4460-11.8-163K (ANC 2783)
+OT/PT: 34/23
+BUN/Cr: 22/0.68 (GFR-MDRD: 93)
+Coagulation panel: -
+Na: 137 K: 4.2  Cl: 98  
+CRP: 0.06 Procalcitonin: -  Lactic acid: -  Presepsin: -
+CA125: 12.9 U/mL (reference: 0-35)
+
+@ Urine test
+Urine analysis: -
+
+@ PE
+Bowel sound: hypoactive
+Tenderness/rebound tenderness (+/-)
+Others: -
+
+@ Simple X-ray
+Chest PA: -
+Abd XR: nonspecific bowel gas pattern
+
+@ AP-CT
+Reading: increased small bowel ileus. No newly appearing lesion suggesting metastasis in abdominopelvic cavity.
+
+@ Other tests:  - 
+Step 3. Make an actual full detailed example order of prescriptions that match the treatment plan, line by line (from V/S, diet, ambulation or bed rest, I/O (if needed), body weight, BST, fluid (considering volume and nutrition if NPO), H2 blocker or PPI, medications including prn order, etc). Add explanation at the end of the order, not in the middle of the order. 
+Step 4. At a level understandable for the patient, provide education on the reasons for the tests performed in Step 1 and how the results have contributed to determining the presumptive diagnosis and treatment plan in Step 2. Summarize the information clearly and in simple terms to ensure the patient can fully understand the purpose and findings of each step in the process. 
+
+assistant: [ChatGPT-4o 응답] Last user input: Step 2. Prompt for generating differential diagnos...
+user: "Make an actual full detailed example order of prescriptions that match the treatment plan, line by line (from V/S, diet, ambulation or 
+    bed rest, I/O (if needed), body weight, BST, fluid (considering volume and nutrition if NPO), H2 blocker or PPI, medications including prn order, etc). 
+    Add explanation at the end of the order, not in the middle of the order. 
+assistant: [ChatGPT-4o 응답] Last user input: "Make an actual full detailed example order of pre...
+user: At a level understandable for the patient, provide education on the reasons for the tests performed in Step 1 and how the results have 
+    contributed to determining the presumptive diagnosis and treatment plan in Step 2. Summarize the information clearly and in simple terms to ensure the 
+    patient can fully understand the purpose and findings of each step in the process. 
+assistant: [ChatGPT-4o 응답] Last user input: At a level understandable for the patient, provide...
